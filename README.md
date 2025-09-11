@@ -57,7 +57,6 @@ Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro
 - 🎨 **Rediseño completo con Material 3 Expressive**  
 - 📱 Transiciones más fluidas con **Material Motion**  
 - 🖼️ Carátulas animadas en el reproductor  
-- 🌌 Fondos dinámicos con degradados suaves al estilo Apple Music  
 - ⚡ Mejoras de rendimiento en la carga de listas grandes  
 
 ---
@@ -67,7 +66,7 @@ Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro
 - ⚙️ **Java** (Sketchware Pro + Android IDE)  
 - 📦 **AndroidX / Jetpack**  
 - 🎧 **MediaPlayer / ExoPlayer** para audio  
-- 🖼️ **Glide** para carga de carátulas  
+- 🖼️ **Glide / Picasso** para carga de carátulas  
 - 🎨 **Palette + Material 3** para dinámicas de color  
 - 🌫️ **BlurView** para efectos glassmorphism  
 
@@ -82,4 +81,4 @@ Este proyecto es **cerrado y de uso personal**.
 
 ## 👤 Autor
 
-Desarrollado con ❤️ por **[Tu Nombre / Usuario]**
+Desarrollado con ❤️ por **D 4 v 1 d / @d4v1xd**
