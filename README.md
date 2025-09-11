@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/banner_astra.png" alt="Astra Banner" width="100%">
+</div>
+
+<div align="center">
 
 # 🎵 Astra Music Player  
 
