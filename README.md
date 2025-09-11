@@ -41,7 +41,7 @@ Diseñado para ofrecer simplicidad, rendimiento y estilo moderno.
 
 | Inicio | Reproductor | Letras sincronizadas |
 |--------|-------------|----------------------|
-| ![](screenshots/01_home.png) | ![](screenshots/02_player.png) | ![](screenshots/03_lyrics.png) |
+| ![](01_home.png) | ![](02_player.png) | ![](03_lyrics.png) |
 
 ---
 
