@@ -37,8 +37,6 @@ Diseñado para ofrecer simplicidad, rendimiento y estilo moderno.
 
 ## 📲 Capturas de pantalla
 
-*(Ejemplo, agrega tus imágenes en `screenshots/`)*
-
 | Inicio | Reproductor | Letras sincronizadas |
 |--------|-------------|----------------------|
 | ![](01_home.png) | ![](02_player.png) | ![](03_lyrics.png) |
