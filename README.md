@@ -74,6 +74,14 @@ Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro
 
 ---
 
+## 📦 Descargar la última versión
+
+[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Astra%20Music-blue?style=for-the-badge)](https://github.com/d4v1xd/Astra-Music/releases/tag/v1.0.0)
+
+Accede siempre a la última versión estable desde la sección de [Releases](https://github.com/d4v1xd/Astra-Music/releases).
+
+---
+
 ## 📄 Licencia
 
 Este proyecto es **cerrado y de uso personal**.  
