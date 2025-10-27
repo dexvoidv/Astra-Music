@@ -30,8 +30,7 @@ Diseñado para ofrecer simplicidad, rendimiento y estilo moderno.
 - 📜 **Letras sincronizadas en tiempo real (.lrc)**  
 - 📀 Navegación por **álbumes, artistas y canciones**  
 - 🔔 Notificación y mini-player con controles multimedia  
-- 🌫️ **Glassmorphism** en fondos con BlurView  
-- ⚡ Interfaz **rápida y ligera**, ideal para todo tipo de dispositivos  
+- ⚡ Interfaz **rápida, moderna y expresiva**, ideal para todo tipo de dispositivos  
 
 ---
 
@@ -45,7 +44,7 @@ Diseñado para ofrecer simplicidad, rendimiento y estilo moderno.
 
 ## 🚀 Estado del proyecto
 
-Astra está en **desarrollo activo** y evoluciona constantemente.  
+Astra Music está en **desarrollo semi activo** y evoluciona de forma lenta pero completa.  
 Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro** y **Android IDE**.  
 
 > 🔒 **Nota:** No es open-source. Este proyecto es de un solo desarrollador y no acepta contribuciones externas.
@@ -56,9 +55,9 @@ Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro
 
 🔜 **Próximas actualizaciones previstas:**
 
-- 🎨 **Rediseño completo con Material 3 Expressive**  
-- 📱 Transiciones más fluidas con **Material Motion**  
 - 🖼️ Carátulas animadas en el reproductor  
+- 🎨 Más opciones de **personalización**
+- 📄 Optimizacion y mejora de UI en el **Lyrics View**
 - ⚡ Mejoras de rendimiento en la carga de listas grandes  
 
 ---
@@ -66,11 +65,10 @@ Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro
 ## 🛠️ Tecnologías usadas
 
 - ⚙️ **Java** (Sketchware Pro + Android IDE)  
-- 📦 **AndroidX / Jetpack**  
-- 🎧 **MediaPlayer / ExoPlayer** para audio  
-- 🖼️ **Glide / Picasso** para carga de carátulas  
+- 📦 **AndroidX**  
+- 🎧 **MediaPlayer** para audio  
+- 🖼️ **Picasso** para carga de carátulas  
 - 🎨 **Palette + Material 3** para dinámicas de color  
-- 🌫️ **BlurView** para efectos glassmorphism  
 
 ---
 
@@ -86,6 +84,11 @@ Accede siempre a la última versión estable desde la sección de [Releases](htt
 
 Este proyecto es **cerrado y de uso personal**.  
 **Todos los derechos reservados © 2025** – No se permite redistribución, modificación ni uso comercial sin autorización expresa.
+
+---
+## 👥 Agradecimientos:
+
+• Quiero agradecer de forma directa a @PixelPlay y sus respectivos creadores, gracias a ese proyecto pude inspirarme en esta versión y le doy créditos totalmente a ellos. 
 
 ---
 
