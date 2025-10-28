@@ -6,8 +6,8 @@
 
 # 🎵 Astra Music Player  
 
-Un **reproductor de música minimalista y ligero** para Android con soporte completo a **Material You (M3)**.  
-Diseñado para ofrecer simplicidad, rendimiento y estilo moderno.  
+Un **reproductor de música minimalista y ligero** para Android, con soporte completo para **Material You (M3)**.  
+Diseñado para ofrecer **simplicidad, rendimiento y un estilo moderno** que se adapta dinámicamente a tu dispositivo.  
 
 ---
 
@@ -24,51 +24,61 @@ Diseñado para ofrecer simplicidad, rendimiento y estilo moderno.
 ## ✨ Características principales
 
 - 🎶 **Reproducción local** de música con interfaz fluida  
-- 📂 **Listas de reproducción** y **favoritos**  
-- 🎚️ **Ecualizador integrado** y controles avanzados  
+- 📂 **Listas de reproducción** y **favoritos** personalizables  
+- 🎚️ **Ecualizador integrado** con controles avanzados  
 - 🎨 **Colores dinámicos (Material You / M3)**  
 - 📜 **Letras sincronizadas en tiempo real (.lrc)**  
 - 📀 Navegación por **álbumes, artistas y canciones**  
-- 🔔 Notificación y mini-player con controles multimedia  
-- ⚡ Interfaz **rápida, moderna y expresiva**, ideal para todo tipo de dispositivos  
+- 🔔 **Notificación persistente** y **mini-player** con controles multimedia  
+- ⚡ Interfaz **moderna, rápida y expresiva**, optimizada para todo tipo de dispositivos  
 
 ---
 
 ## 📲 Capturas de pantalla
 
-| Inicio | Reproductor | Letras sincronizadas |
-|--------|-------------|----------------------|
-| ![](01_home.png) | ![](02_player.png) | ![](03_lyrics.png) |
+<div align="center">
+
+### 🏠 Pantalla de inicio  
+<img src="01_home.png" width="60%">
+
+### 🎧 Reproductor principal  
+<img src="02_player.png" width="60%">
+
+### 📝 Letras sincronizadas  
+<img src="03_lyrics.png" width="60%">
+
+</div>
 
 ---
 
 ## 🚀 Estado del proyecto
 
-Astra Music está en **desarrollo semi activo** y evoluciona de forma lenta pero completa.  
-Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro** y **Android IDE**.  
+**Astra Music** se encuentra en **desarrollo semi-activo**, evolucionando de forma pausada pero constante.  
+Es un proyecto **personal y cerrado**, desarrollado completamente con **Sketchware Pro** y **Android IDE**.
 
-> 🔒 **Nota:** No es open-source. Este proyecto es de un solo desarrollador y no acepta contribuciones externas.
+> 🔒 **Nota:** Este proyecto **no es open-source**.  
+> Fue creado por un único desarrollador y **no acepta contribuciones externas**.
 
 ---
 
 ## 🛣️ Roadmap
 
-🔜 **Próximas actualizaciones previstas:**
+🔜 **Próximas mejoras previstas:**
 
-- 🖼️ Carátulas animadas en el reproductor  
-- 🎨 Más opciones de **personalización**
-- 📄 Optimizacion y mejora de UI en el **Lyrics View**
-- ⚡ Mejoras de rendimiento en la carga de listas grandes  
+- 🖼️ Carátulas **animadas** en el reproductor  
+- 🎨 Nuevas opciones de **personalización visual**  
+- 📄 Optimización y rediseño del **Lyrics View**  
+- ⚡ Mejoras de rendimiento al cargar listas grandes  
 
 ---
 
-## 🛠️ Tecnologías usadas
+## 🛠️ Tecnologías utilizadas
 
 - ⚙️ **Java** (Sketchware Pro + Android IDE)  
-- 📦 **AndroidX**  
-- 🎧 **MediaPlayer** para audio  
+- 🧩 **AndroidX Components**  
+- 🎧 **MediaPlayer API** para la reproducción de audio  
 - 🖼️ **Picasso** para carga de carátulas  
-- 🎨 **Palette + Material 3** para dinámicas de color  
+- 🎨 **Palette + Material 3** para la generación dinámica de colores  
 
 ---
 
@@ -76,22 +86,26 @@ Es un proyecto **personal y cerrado**, creado íntegramente con **Sketchware Pro
 
 [![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Astra%20Music-blue?style=for-the-badge)](https://github.com/d4v1xd/Astra-Music/releases/tag/v1.0.0)
 
-Accede siempre a la última versión estable desde la sección de [Releases](https://github.com/d4v1xd/Astra-Music/releases).
+Accede siempre a la última versión estable desde la sección de  
+👉 [**Releases en GitHub**](https://github.com/d4v1xd/Astra-Music/releases)
 
 ---
 
 ## 📄 Licencia
 
 Este proyecto es **cerrado y de uso personal**.  
-**Todos los derechos reservados © 2025** – No se permite redistribución, modificación ni uso comercial sin autorización expresa.
+**Todos los derechos reservados © 2025** – Se prohíbe su redistribución, modificación o uso comercial sin autorización expresa.
 
 ---
-## 👥 Agradecimientos:
 
-• Quiero agradecer de forma directa a @PixelPlay y sus respectivos creadores, gracias a ese proyecto pude inspirarme en esta versión y le doy créditos totalmente a ellos. 
+## 👥 Agradecimientos
+
+Un agradecimiento especial a [**PixelPlay**](https://github.com/theovilardo/PixelPlay) y sus creadores,  
+cuyo proyecto sirvió de inspiración para esta versión de Astra Music.  
+Todo el crédito y reconocimiento les pertenece. 🙌
 
 ---
 
 ## 👤 Autor
 
-Desarrollado con ❤️ por **D 4 v 1 d / @d4v1xd**
+Desarrollado con ❤️ por **𝙳𝚊𝚟𝚒𝚍 / @d4v1xd**
