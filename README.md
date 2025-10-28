@@ -13,7 +13,7 @@ Diseñado para ofrecer **simplicidad, rendimiento y un estilo moderno** que se a
 
 [![status](https://img.shields.io/badge/Status-Active%20Development-blue)]()
 [![platform](https://img.shields.io/badge/Platform-Android-green?logo=android)]()
-[![sdk](https://img.shields.io/badge/minSdk-23+-orange)]()
+[![sdk](https://img.shields.io/badge/minSdk-26+-orange)]()
 [![license](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)]()
 [![ui](https://img.shields.io/badge/UI-Material%20You%20%7C%20Expressive-9cf)]()
 
@@ -23,7 +23,7 @@ Diseñado para ofrecer **simplicidad, rendimiento y un estilo moderno** que se a
 
 ## ✨ Características principales
 
-- 🎶 **Reproducción local** de música con interfaz fluida  
+- 🎶 **Reproducción local** de música con soporte completo  
 - 📂 **Listas de reproducción** y **favoritos** personalizables  
 - 🎚️ **Ecualizador integrado** con controles avanzados  
 - 🎨 **Colores dinámicos (Material You / M3)**  
