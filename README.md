@@ -68,6 +68,7 @@ Es un proyecto **personal y cerrado**, desarrollado completamente con **Sketchwa
 - 🖼️ Carátulas **animadas** en el reproductor  
 - 🎨 Nuevas opciones de **personalización visual**  
 - 📄 Optimización y rediseño del **Lyrics View**  
+- 🎵 Mejoras y Optimizacion en ajustes de **Audio**
 - ⚡ Mejoras de rendimiento al cargar listas grandes  
 
 ---
