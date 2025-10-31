@@ -85,7 +85,7 @@ Es un proyecto **personal y cerrado**, desarrollado completamente con **Sketchwa
 
 ## 📦 Descargar la última versión
 
-[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Astra%20Music-blue?style=for-the-badge)](https://github.com/d4v1xd/Astra-Music/releases/tag/v2.0)
+[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Astra%20Music-blue?style=for-the-badge)](https://github.com/d4v1xd/Astra-Music/releases/tag/v2.1)
 
 Accede siempre a la última versión estable desde la sección de  
 👉 [**Releases en GitHub**](https://github.com/d4v1xd/Astra-Music/releases)
