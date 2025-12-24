@@ -6,8 +6,8 @@
 
 # 🎵 **Astra Music Player**
 
-Un **reproductor de música minimalista y ligero** para Android, con soporte completo para **Material You (Material 3)**.  
-Diseñado para ofrecer **simplicidad, rendimiento y un estilo moderno** que se adapta dinámicamente a tu dispositivo.
+A **minimalist and lightweight** music player for Android, with full support for **Material You (Material 3)**.  
+Designed to deliver **simplicity, performance, and a modern style** that dynamically adapts to your device.
 
 ---
 
@@ -21,129 +21,129 @@ Diseñado para ofrecer **simplicidad, rendimiento y un estilo moderno** que se a
 
 ---
 
-## ✨ **Características principales**
+## ✨ **Key Features**
 
-- 🎶 **Reproducción local** de música con soporte completo  
-- 📂 **Listas de reproducción** y **favoritos** personalizables  
-- 🎚️ **Ecualizador integrado** con controles avanzados  
-- 🎨 **Colores dinámicos (Material You / M3)**  
-- 📜 **Letras sincronizadas en tiempo real (.lrc)**  
-- 📀 Navegación por **álbumes, artistas y canciones**  
-- 🔔 **Notificación persistente** y **mini-player** con controles multimedia  
-- ⚡ Interfaz **moderna, rápida y expresiva**, optimizada para bibliotecas grandes  
+- 🎶 **Local music playback** with full support  
+- 📂 Customizable **playlists** and **favorites**  
+- 🎚️ **Built-in equalizer** with advanced controls  
+- 🎨 **Dynamic colors (Material You / M3)**  
+- 📜 **Real-time synchronized lyrics (.lrc)**  
+- 📀 Navigation by **albums, artists, and songs**  
+- 🔔 **Persistent notification** and **mini-player** with media controls  
+- ⚡ **Modern, fast, and expressive** interface, optimized for large libraries  
 
 ---
 
-## 📲 **Capturas de pantalla**
+## 📲 **Screenshots**
 
 <div align="center">
 
-### 🏠 **Pantalla de inicio**
+### 🏠 **Home Screen**
 <img src="01_home.png" width="60%">
 
-### 🎧 **Reproductor principal**
+### 🎧 **Main Player**
 <img src="02_player.png" width="60%">
 
-### 📝 **Letras sincronizadas**
+### 📝 **Synchronized Lyrics**
 <img src="03_lyrics.png" width="60%">
 
 </div>
 
 ---
 
-## 🚀 **Estado del proyecto**
+## 🚀 **Project Status**
 
-**Astra Music** se encuentra en **desarrollo semi-activo**, evolucionando de forma pausada pero constante.  
-Es un proyecto **personal y cerrado**, desarrollado completamente con **Sketchware Pro** y **Android IDE**.
+**Astra Music** is in **semi-active development**, evolving steadily but at a measured pace.  
+It is a **personal and closed-source** project, developed entirely using **Sketchware Pro** and **Android IDE**.
 
 ---
 
-## 🔒 **Sobre el estado del código**
+## 🔒 **About the Code Status**
 
-**Astra Music no es un proyecto open-source tradicional.**
+**Astra Music is not a traditional open-source project.**
 
-El desarrollo se realiza principalmente con **Sketchware Pro**, una herramienta que utiliza un formato de proyecto propio (`.swb`) en lugar de una estructura de código plano fácilmente versionable (como Android Studio).
+Development is primarily done with **Sketchware Pro**, a tool that uses its own proprietary project format (`.swb`) instead of a standard, easily versionable code structure (like Android Studio).
 
-Debido a esta limitación técnica:
+Due to this technical limitation:
 
-- No es posible aceptar **pull requests** convencionales  
-- La colaboración simultánea entre múltiples desarrolladores no es viable  
-- El control de versiones y los **merges** no pueden gestionarse de forma segura  
+- Conventional **pull requests** cannot be accepted  
+- Simultaneous collaboration among multiple developers is not feasible  
+- Version control and **merges** cannot be managed securely  
 
-Por este motivo, el proyecto se mantiene **cerrado y de desarrollo individual**.
+For this reason, the project remains **closed and individually developed**.
 
-> 💡 **Nota:** Las sugerencias, ideas y reportes de errores son bienvenidos mediante  
-> 👉 [**Issues en GitHub**](https://github.com/d4v1xd/Astra-Music/issues)  
+> 💡 **Note:** Suggestions, ideas, and bug reports are welcome via  
+> 👉 [**Issues on GitHub**](https://github.com/d4v1xd/Astra-Music/issues)  
 >  
-> A futuro, se contempla una posible **migración a código plano** cuando las condiciones técnicas lo permitan.
+> In the future, a potential **migration to plain code** is being considered when technical conditions allow it.
 
 ---
 
-## 🧪 **Desarrollo actual – v0.3**
+## 🧪 **Current Development – v0.4**
 
-La versión **v0.3** se enfoca en **pulir la experiencia existente** antes de introducir nuevas funciones mayores.
+Version **v0.4** focuses on **polishing the existing experience** before introducing major new features.
 
-**Áreas en desarrollo:**
+**Areas in development:**
 
-- 🎨 Refinamiento de **animaciones y transiciones** (Material You / M3)  
-- 🎧 Mejoras internas en el **manejo de audio** y estados de reproducción  
-- 📜 Revisión y optimización del **sistema de letras sincronizadas**  
-- ⚡ Optimización de carga para **bibliotecas musicales grandes**  
-- 🧩 Limpieza y reorganización de **lógica interna**, pensando en futuras migraciones  
+- 🎨 Refinement of **animations and transitions** (Material You / M3)  
+- 🎧 Internal improvements to **audio handling** and playback states  
+- 📜 Review and optimization of the **synchronized lyrics system**  
+- ⚡ Loading optimization for **large music libraries**  
+- 🧩 Cleanup and reorganization of **internal logic**, with future migrations in mind  
 
-Esta etapa prioriza **calidad, coherencia visual y rendimiento**, por encima de añadir funciones rápidamente.
+This stage prioritizes **quality, visual consistency, and performance** over rapidly adding new features.
 
 ---
 
 ## 🛣️ **Roadmap**
 
-🔜 **Próximas mejoras previstas:**
+🔜 **Upcoming planned improvements:**
 
-- 🖼️ Carátulas **animadas** en el reproductor  
-- 🎨 Nuevas opciones de **personalización visual**  
-- 📄 Rediseño y optimización del **Lyrics View**  
-- 🎵 Mejoras y ajustes avanzados en el **motor de audio**  
-- ⚡ Mejor rendimiento en listas de gran tamaño  
+- 🖼️ **Animated album covers** in the player  
+- 🎨 New **visual customization** options  
+- 📄 Redesign and optimization of the **Lyrics View**  
+- 🎵 Advanced improvements and tweaks to the **audio engine**  
+- ⚡ Better performance on large lists  
 
 ---
 
-## 🛠️ **Tecnologías utilizadas**
+## 🛠️ **Technologies Used**
 
 - ⚙️ **Java** (Sketchware Pro + Android IDE)  
 - 🧩 **AndroidX Components**  
-- 🎧 **MediaPlayer API** para la reproducción de audio  
-- 🖼️ **Picasso** para carga de carátulas  
-- 🎨 **Palette + Material 3** para la generación dinámica de colores  
-- 🧠 Desarrollo **offline-first**, optimizado para entornos con conectividad limitada  
+- 🎧 **MediaPlayer API** for audio playback  
+- 🖼️ **Picasso** for album art loading  
+- 🎨 **Palette + Material 3** for dynamic color generation  
+- 🧠 **Offline-first** development, optimized for limited connectivity environments  
 
 ---
 
-## 📦 **Descargar la última versión**
+## 📦 **Download the Latest Version**
 
-[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Astra%20Music-blue?style=for-the-badge)](https://github.com/d4v1xd/Astra-Music/releases/tag/v0.2f)
+[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Astra%20Music-blue?style=for-the-badge)](https://github.com/dexvoidv/Astra-Music/releases/tag/v0.3)
 
-Accedé siempre a la última versión estable desde  
-👉 [**Releases en GitHub**](https://github.com/d4v1xd/Astra-Music/releases)
-
----
-
-## 📄 **Licencia**
-
-Este proyecto es **cerrado y de uso personal**.  
-**Todos los derechos reservados © 2025**.
-
-Se prohíbe la redistribución, modificación o uso comercial sin autorización expresa.
+Always get the latest stable version from  
+👉 [**Releases on GitHub**](https://github.com/dexvoidv/Astra-Music/releases)
 
 ---
 
-## 👥 **Agradecimientos**
+## 📄 **License**
 
-Un agradecimiento especial a [**PixelPlay**](https://github.com/theovilardo/PixelPlay) y sus creadores,  
-cuyo proyecto sirvió de inspiración para esta versión de **Astra Music**.  
-Todo el crédito y reconocimiento les pertenece. 🙌
+This project is **closed-source and for personal use**.  
+**All rights reserved © 2025**.
+
+Redistribution, modification, or commercial use is prohibited without express authorization.
 
 ---
 
-## 👤 **Autor**
+## 👥 **Acknowledgments**
 
-Desarrollado con ❤️ por **𝙳 𝚎 𝚡 𝚅 𝚘 𝚒 𝚍 / @dexvoidv**
+Special thanks to [**PixelPlay**](https://github.com/theovilardo/PixelPlay) and its creators,  
+whose project served as inspiration for this version of **Astra Music**.  
+All credit and recognition goes to them. 🙌
+
+---
+
+## 👤 **Author**
+
+Developed with ❤️ by **𝙳 𝚎 𝚡 𝚅 𝚘 𝚒 𝚍 / @dexvoidv**
