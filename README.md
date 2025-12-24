@@ -146,4 +146,4 @@ Todo el crédito y reconocimiento les pertenece. 🙌
 
 ## 👤 **Autor**
 
-Desarrollado con ❤️ por **David / @d4v1xd**
+Desarrollado con ❤️ por **𝙳 𝚎 𝚡 𝚅 𝚘 𝚒 𝚍 / @dexvoidv**
