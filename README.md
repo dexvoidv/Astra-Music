@@ -73,7 +73,7 @@ Due to this technical limitation:
 For this reason, the project remains **closed and individually developed**.
 
 > 💡 **Note:** Suggestions, ideas, and bug reports are welcome via  
-> 👉 [**Issues on GitHub**](https://github.com/d4v1xd/Astra-Music/issues)  
+> 👉 [**Issues on GitHub**](https://github.com/dexvoidv/Astra-Music/issues)  
 >  
 > In the future, a potential **migration to plain code** is being considered when technical conditions allow it.
 
